@@ -8,8 +8,9 @@ offset_left = 512.0
 offset_top = 166.0
 offset_right = 827.0
 offset_bottom = 298.0
-text = "PLAY
+text = "PLAY OUR First game
 "
+metadata/_edit_group_ = true
 
 [node name="Button2" type="Button" parent="."]
 offset_left = 28.0
